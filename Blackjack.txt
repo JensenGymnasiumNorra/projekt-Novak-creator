@@ -1,0 +1,18 @@
+Skapa deck- done 
+
+Skapa varje kort - done 
+
+skapa hand - done 
+
+skapa dealer hand - done 
+ge varje kort ett värde
+skapa spel regler
+
+ta random kort från deck 
+stanna
+splitta
+
+
+testa och förbättra
+
+
